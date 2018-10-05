@@ -23,8 +23,8 @@
 	color: black;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
-	border-top:1px;
-	border-color: black;
+
+	border:1px solid black;
 
 }
 .navbar-header button.navbar-toggle{
